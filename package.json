@@ -1,0 +1,21 @@
+{
+  "name": "HappyFruits",
+  "uuid": "3c5a12c7-f939-4c4f-8fcb-baefdd1357a6",
+  "creator": {
+    "version": "3.8.6"
+  },
+  "scripts": {
+    "lint": "eslint --ext .ts,.js assets",
+    "lint:fix": "eslint --ext .ts,.js assets --fix",
+    "format": "prettier --write \"assets/**/*.{ts,js,json,md}\""
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^8.39.0",
+    "@typescript-eslint/parser": "^8.39.0",
+    "eslint": "^9.33.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.4",
+    "eslint-plugin-simple-import-sort": "^12.1.1",
+    "prettier": "^3.6.2"
+  }
+}

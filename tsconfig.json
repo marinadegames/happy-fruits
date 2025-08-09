@@ -1,0 +1,9 @@
+{
+  "extends": "./temp/tsconfig.cocos.json",
+
+  "compilerOptions": {
+    "strict": false,
+    "target": "es2017",
+    "lib": ["dom", "es2017"]
+  }
+}
