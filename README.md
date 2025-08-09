@@ -1,4 +1,4 @@
-# 🍓 Fruit Catcher — Test Game Project
+# 🍓 Happy Fruits — Test Game Project
 
 > 🎮 A simple and juicy game prototype made in **Cocos Creator 3.8** using **ECS architecture**.
 
@@ -6,8 +6,10 @@
 
 ## 🚀 Game Description
 
-"Fruit Catcher" is a fun arcade game where the player controls a **basket** to catch falling fruits. Catch fruits to earn points, avoid dangerous ones, and try to score as high as you can before time runs out!
-![gameScreen.png](assets/resources/gameScreen.png)
+"Happy Fruits" is a fun arcade game where the player controls a **basket** to catch falling fruits. Catch fruits to earn points, avoid dangerous ones, and try to score as high as you can before time runs out!
+
+![gameScreen.png](assets/resources/images/gameScreen.png)
+
 
 ---
 
